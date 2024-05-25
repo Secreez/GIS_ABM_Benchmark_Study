@@ -1,0 +1,52 @@
+---
+title: "Comparative Benchmarking of Agent-Based Modeling Platforms in Spatial Simulations: An Analysis of Agents.jl vs. GAMA"
+author: "Maximilian Elixhauser"
+date: "..."
+output: pdf_document
+bibliography: references.bib
+---
+
+# Abstract
+
+# Introduction
+
+## Background and Motivation
+
+## Problem Statement
+
+## Research Question
+
+## Structure of the Thesis
+
+# Methods and Data
+
+## Overview
+
+### Data
+
+### Simulation Model
+
+### Performance Metrics
+
+### Benchmark Scenarios
+
+### Tools
+
+# Results
+
+## Presentation of Results
+
+# Discussion
+
+## Interpretation of Results
+
+# Conclusion
+
+## Summary
+
+# Acknowledgement of Potential Flaws and Limitations
+
+# References
+
+::: {#refs}
+:::
