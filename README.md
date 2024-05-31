@@ -46,10 +46,6 @@ Detailed analysis scripts are available in the analysis/ directory. This include
 
 Currently, contributions are limited as this is a Bachelor thesis project. Feedback is welcome and can be submitted via issues. Contributions will be considered after the thesis has been graded.
 
-## License
-
-To be determined.
-
 ## Acknowledgements
 
 Special thanks to my supervisor, colleagues, and the open-source community for their support and contributions!
